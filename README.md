@@ -1,7 +1,7 @@
 # Árvore Binária para Código Morse
 
--Aluna: Emily Pontes Fontana
--Turma: 4U noite
+- Aluna: Emily Pontes Fontana
+- Turma: 4U noite
 
 ## Descrição
 Projeto em Java que implementa uma árvore binária para representar o Código Morse.  
